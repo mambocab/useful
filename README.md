@@ -4,9 +4,9 @@ I can't pretend to be particularly good at this. But I've been lucky enough to c
 
 ## For Everyone
 
-Let food rest after heating -- a little longer than you think you need to. This goes double for the microwave. I know it hurts. I'm sorry.
+Let food rest after heating or cooking -- a little longer than you think you need to. This goes double for the microwave. I know it hurts. I'm sorry.
 
-Writing is thinking. Be wary of tools that claim to help you write less.
+Writing is thinking. Be wary of tools that claim to help you spend less attention or effort on it.
 
 ## For Programmers
 
