@@ -1,4 +1,4 @@
-# Words to Live By
+# Some Useful Words
 
 I can't pretend to be particularly good at this. But I've been lucky enough to come across some good ideas.
 
